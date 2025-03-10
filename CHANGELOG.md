@@ -1,11 +1,21 @@
 # MateCat Filters Changelog
 
+## 1.2.16 (2025-03-10)
+
+* Upgraded to Okapi 1.46.0
+* Updated dependencies
+
+
+
 ## 1.2.15 (2023-11-16)
+
 * Upgraded to Okapi 1.45.0
 * Updated Jetty & Jersey
 
 
+
 ## 1.2.14 (2023-11-13)
+
 * Fix & update CDN scripts
 * Updated dependencies
 
